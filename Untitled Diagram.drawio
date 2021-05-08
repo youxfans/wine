@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T07:49:35.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="pdSvyXsfdPD6hodKznrb" version="14.2.9" type="github"><diagram id="l2P7VPEPcHexmEcs6MTj" name="Page-1">7Vrdb9owEP9reOyU77LHlrLx0E2VqmnjaXKJm3hKcpnjFLK/fpfGITimQEupS1sJCd/lzj7fx88Xw8AdpYuvnOTxNwhpMnCscDFwLwaOY7u+jV81p2o4Q89qGBFnoRTqGNfsH5XMVqxkIS0UQQGQCJarzBlkGZ0JhUc4h7kqdguJumpOIqoxrmck0bk/WShiuQvf6vgTyqK4Xdm25JOUtMKSUcQkhPkKyx0P3BEHEM0oXYxoUjuv9Uuj9+WBp0vDOM3ELgq3l3/ZfHp1DidVkkHMTyfp5ORU2iaqdsM0xP1LEriIIYKMJOOOe86hzEJaz2oh1clcAuTItJH5hwpRyWCSUgCyYpEm8ikazKtftf4nvyWncrp74mKhUJWkGltrAx90gWQVUPIZ3bDvNpUIj6jYIOcsA4UZTiGlaA/qcZoQwe5UO4hMtWgp10UDBzIgjwiOnPeOJKVcidOiTIQWMzUi85gJep2TewfMsSxV78tJKRd0sdmP+r6lghvInJZF3db0vKsQu037eKU6WrVn95SveWqKoPE+U9vZMbVdk6kdaAH7Dh/x2hgvz2S8HC1erKiN5khqaBRDelMWL4NEQxWJlrCzAkXDNUg0PBQSuZqjBk5A0nrn2U1Rf42zO6h+owDOYxrInZ77zCO5txYYrJzylBUFg8y4zzzvtflsuC7nsE1wz4ucoMOCqB5PCIKE6slGCNdclTPu4H5SBsYd/PnoktK8z2xbc8qbOM+3ntP2vu8MUvUKGC7dnXS9CLtWL3JNoyG1esFbmrFHPHWUebctm71rz2b7e+bCfiX4ars2q5fLprs2W287juwFki6YWFFDatrOiONOqSYOVhEHBz3P3g30tIk8pzeR15uoKWVtojPOSbUiltcCxSMM7l/KbbNLlcdBY8HzQrl+XbKmOTTdBVoPRMxcR6O3gT8KypFTE83Hsc7QfVFG1wCs6Us64w5c3oQfBaLujo7bb5EPg46e4ysR9l+4JWwt/jg1n3hqHigvXE/Ni2DHw+7Z8uLV9p29mwXfdN/p6NeFx/VS9TYLqA+swVPbTt96WiU+tu3st5HBlrZTs2u/thPJ7nfsRrz7N4A7/g8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-08T07:50:16.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Rw7LbxjF_O7-X2rTf4x6" version="14.2.9" type="github">
+  <diagram id="l2P7VPEPcHexmEcs6MTj" name="Page-1">
+    <mxGraphModel dx="1577" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fLqiwYPBo-ylnohr7HmH-1" target="fLqiwYPBo-ylnohr7HmH-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-1" value="result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-5" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fLqiwYPBo-ylnohr7HmH-2" target="fLqiwYPBo-ylnohr7HmH-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-6" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fLqiwYPBo-ylnohr7HmH-2" target="fLqiwYPBo-ylnohr7HmH-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-2" value="is true" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-3" value="&amp;nbsp;Envoy_valid" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-4" value="No permission" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-8" value="&lt;span&gt;Have permission&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-9" value="No permission" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="fLqiwYPBo-ylnohr7HmH-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-18" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fLqiwYPBo-ylnohr7HmH-12" target="fLqiwYPBo-ylnohr7HmH-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-12" value="is true" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-14" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fLqiwYPBo-ylnohr7HmH-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="410" as="sourcePoint" />
+            <mxPoint x="420" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="420" />
+              <mxPoint x="420" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-15" value="Have permission" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-19" value="User === Assignee" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="fLqiwYPBo-ylnohr7HmH-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-21" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fLqiwYPBo-ylnohr7HmH-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-22" value="is true" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLqiwYPBo-ylnohr7HmH-23" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fLqiwYPBo-ylnohr7HmH-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="610" as="sourcePoint" />
+            <mxPoint x="505" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="620" />
+              <mxPoint x="505" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
